@@ -79,8 +79,8 @@ I’m a passionate **Application Security Engineer** with a focus on building **
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Oosman-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/mohamed-oosman/)
-📧 **Email:** [mohamed.oosman@proton.me](mailto:mohamed.oosman@proton.me)
+📧 **Email:** [oosmanforwork@gmail.com](mailto:oosmanforwork@gmail.com)
+
 🌍 **Portfolio:** *Coming Soon*
 
 ---
