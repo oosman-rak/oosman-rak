@@ -1,25 +1,32 @@
-# 👋 Hey, I'm Mohamed Oosman B S
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Oosman-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/mohamed-oosman/)
+# 👋 Hey, I'm **Mohamed Oosman B S**
 
 💡 **Senior Application Security Engineer @Medibuddy | 3x CVEs | Penetration Tester | Red Teaming | Cloud Security | DevSecOps | Cybersecurity Expert**
 
 ---
 
-### 🛰️ About Me
+## 🛰️ About Me
 
-I’m a passionate **Application Security Engineer** with a focus on building **scalable security automation** and improving security maturity across organizations.
+🔹 Passionate **Application Security Engineer** focused on **scalable security automation** and improving security maturity across organizations.
+🔹 Blending offensive security, automation, and cloud-native security to build a safer internet.
 
-* 🔐 Expertise in **Offensive Security, Red Teaming, and Recon Automation**
-* ☁️ Experienced in **AWS Security, Cloud Hardening, and Threat Surface Reduction**
-* 🧰 Builder of advanced **Bash/Python-based security automation frameworks** integrating tools like `nuclei`, `httpx`, and `amass`
-* 🤖 Creator of **AI-powered security reporting pipelines** for bug bounty and vulnerability triage
-* 🧠 Contributor to open-source security tools and community-driven research
-* 🧾 Published **3 CVEs** for real-world security vulnerabilities
+* 🔐 **Expertise:** Red Teaming • Recon Automation • Vulnerability Detection
+* ☁️ **Cloud Focus:** AWS Security • Cloud Hardening • Threat Surface Reduction
+* 🧰 **Automation Builder:** Bash/Python frameworks using `nuclei`, `httpx`, `amass`, `jq`
+* 🤖 **AI Integrations:** Automating bug bounty triage & vulnerability reporting pipelines
+* 🧠 **Open-Source Contributor** & **CVE Author (3x)**
 
 ---
 
-### ⚙️ Tech Arsenal
+## ⚙️ Tech Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuclei-0A0A0A?style=for-the-badge&logo=projectdiscovery&logoColor=white" />
+</p>
 
 | Category                   | Tools / Technologies                                         |
 | -------------------------- | ------------------------------------------------------------ |
@@ -31,7 +38,7 @@ I’m a passionate **Application Security Engineer** with a focus on building **
 
 ---
 
-### 🧩 Featured Projects
+## 🧩 Featured Projects
 
 | 🔗 Project                                                                      | 🧩 Description                                                           | ⚙️ Stack                         |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------- |
@@ -42,7 +49,7 @@ I’m a passionate **Application Security Engineer** with a focus on building **
 
 ---
 
-### 🏅 Certifications & Achievements
+## 🏅 Certifications & Achievements
 
 * 🧩 **3x CVE Author** – Reported critical vulnerabilities in production-grade systems
 * ☁️ **AWS Certified Security – Specialty (Ongoing)**
@@ -52,7 +59,7 @@ I’m a passionate **Application Security Engineer** with a focus on building **
 
 ---
 
-### 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oosman-rak&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
@@ -77,11 +84,19 @@ I’m a passionate **Application Security Engineer** with a focus on building **
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
-📧 **Email:** [oosmanforwork@gmail.com](mailto:oosmanforwork@gmail.com)
-
-🌍 **Portfolio:** *Coming Soon*
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-oosman/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Oosman%20B%20S-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:oosmanforwork@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-oosmanforwork%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  </a>
+</p>
 
 ---
 
