@@ -13,13 +13,13 @@
 
 ## 🛰️ About Me
 
-🔹 Passionate **Application Security Engineer** focused on **scalable security automation** and improving security maturity across organizations.
+🔹 Passionate **Security Engineer** focused on **scalable security automation** and improving security maturity across organizations.
+
 🔹 Blending offensive security, automation, and cloud-native security to build a safer internet.
 
-* 🔐 **Expertise:** Red Teaming • Recon Automation • Vulnerability Detection
-* ☁️ **Cloud Focus:** AWS Security • Cloud Hardening • Threat Surface Reduction
+* 🔐 **Expertise:** Penetartion Testing • Red Teaming • Cloud Security • DevSecOps
+* ☁️ **Cloud Focus:** AWS Security • CSPM • Threat Surface Reduction
 * 🧰 **Automation Builder:** Bash/Python frameworks using `nuclei`, `httpx`, `amass`, `jq`
-* 🤖 **AI Integrations:** Automating bug bounty triage & vulnerability reporting pipelines
 * 🧠 **Open-Source Contributor** & **CVE Author (3x)**
 
 ---
