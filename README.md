@@ -1,13 +1,9 @@
 # 👋 Hey, I'm **Mohamed Oosman B S**
 
-💡 **Senior Application Security Engineer @Medibuddy | 3x CVEs | Penetration Tester | Red Teaming | Cloud Security | DevSecOps | Cybersecurity Expert**
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=oosman-rak&label=Profile%20Visits&color=6A5ACD&style=for-the-badge" alt="Profile Visits" />
-  <img src="https://img.shields.io/github/followers/oosman-rak?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/oosman-rak?label=Stars&style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/badge/Role-Senior%20AppSec%20Engineer-blueviolet?style=for-the-badge&logo=shieldcheck&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Penetration Testing%20%7CRed%20Team%20%7C%20DevSecOps%20%7C%20Cloud%20Security-neon?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/CVEs-3x-success?style=for-the-badge&logo=nvd&logoColor=white" />
+  <img src="https://img.shields.io/badge/CVEs-3x-success?style=for-the-badge&logo=nist&logoColor=white" />
 </p>
 
 
