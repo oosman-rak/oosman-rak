@@ -1,8 +1,11 @@
 # 👋 Hey, I'm **Mohamed Oosman B S**
+<p align="center">
+  <img src="assets/security-pulse.gif" alt="Cybersecurity Pulse Banner" width="100%" />
+</p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=oosman-rak&label=Profile%20Visits&color=6A5ACD&style=for-the-badge" alt="Profile Visits" />
-  <img src="https://img.shields.io/badge/Focus-Penetration Testing%20%7CRed%20Team%20%7C%20DevSecOps%20%7C%20Cloud%20Security-neon?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=oosman-rak&label=Profile%20Visits&color=272757&style=for-the-badge" alt="Profile Visits" />
+  <img src="https://img.shields.io/badge/Focus-Penetration Testing%20%7CRed%20Team%20%7C%20DevSecOps%20%7C%20Cloud%20Security-6667AB?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/CVEs-3x-success?style=for-the-badge&logo=nist&logoColor=white" />
 </p>
 
