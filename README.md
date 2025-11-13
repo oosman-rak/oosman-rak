@@ -1,6 +1,15 @@
 # 👋 Hey, I'm **Mohamed Oosman B S**
 
 💡 **Senior Application Security Engineer @Medibuddy | 3x CVEs | Penetration Tester | Red Teaming | Cloud Security | DevSecOps | Cybersecurity Expert**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=oosman-rak&label=Profile%20Visits&color=6A5ACD&style=for-the-badge" alt="Profile Visits" />
+  <img src="https://img.shields.io/github/followers/oosman-rak?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/oosman-rak?label=Stars&style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/badge/Role-Senior%20AppSec%20Engineer-blueviolet?style=for-the-badge&logo=shieldcheck&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Penetration Testing%20%7CRed%20Team%20%7C%20DevSecOps%20%7C%20Cloud%20Security-neon?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/CVEs-3x-success?style=for-the-badge&logo=nvd&logoColor=white" />
+</p>
+
 
 ---
 
@@ -57,32 +66,7 @@
 * 🎓 **B.E. in Computer Science Engineering**
 * 💬 Featured in multiple **bug bounty programs** for high-impact findings
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oosman-rak&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oosman-rak&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oosman-rak&layout=compact&theme=tokyonight&hide_border=true" height="140" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oosman-rak&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oosman-rak&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oosman-rak/oosman-rak/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
