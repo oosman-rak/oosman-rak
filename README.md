@@ -1,6 +1,5 @@
-# 👋 Hey, I'm **Mohamed Oosman B S**
 <p align="center">
-  <img src="assets/security-pulse.gif" alt="Cybersecurity Pulse Banner" width="100%" />
+  <img src="https://github.com/oosman-rak/oosman-rak/blob/main/assets/your_cool_intro%20(9).gif" alt="Cybersecurity Pulse Banner" width="100%" />
 </p>
 
 <p align="left">
