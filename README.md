@@ -13,8 +13,7 @@
 
 ## 🛰️ About Me
 
-🔹 Passionate **Security Engineer** focused on **scalable security automation** and improving security maturity across organizations.
-
+🔹 Passionate **Security Engineer** focused on **scalable security automation** and improving security maturity across organizations.  
 🔹 Blending offensive security, automation, and cloud-native security to build a safer internet.
 
 * 🔐 **Expertise:** Penetartion Testing • Red Teaming • Cloud Security • DevSecOps
@@ -49,9 +48,9 @@
 
 | 🔗 Project                                                                      | 🧩 Description                                                           | ⚙️ Stack                         |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------- |
-| [AWS Route53 Recon Script](https://github.com/oosman-rak/aws-route53-recon)     | Automates org-wide subdomain discovery, liveness checks, and AWS mapping | Bash, AWS CLI, httpx, jq         |
-| [S3 Bucket Audit Script](https://github.com/oosman-rak/s3-audit)                | Detects misconfigured and public S3 buckets; reports security posture    | Bash, AWS CLI                    |
-| [AI-Assisted Vulnerability Scanner](https://github.com/oosman-rak/ai-vuln-scan) | AI-enriched vulnerability detection pipeline integrating Nuclei + Docker | Bash, Docker, jq                 |
+| [AWS Route53 Recon Script](https://github.com/oosman-rak/Route53-live-hosts-hunter)     | Automates org-wide subdomain discovery, liveness checks, and AWS mapping | Bash, AWS CLI, httpx, jq         |
+| [BucketSleuth](https://github.com/oosman-rak/BucketSleuth)                | Detects misconfigured and public S3 buckets; reports security posture    | Bash, AWS CLI                    |
+| [ReconPulse](https://github.com/oosman-rak/ReconPulse) |  vulnerability detection pipeline integrating Nuclei + Docker | Bash, Docker, jq                 |
 | [SLA Whisperer (JIRA-Slack Bot)](https://github.com/oosman-rak/sla-whisperer)   | Automates vulnerability SLA tracking and Slack notifications             | Python, JIRA API, Slack Webhooks |
 
 ---
