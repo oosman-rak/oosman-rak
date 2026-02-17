@@ -16,7 +16,7 @@
 🔹 Passionate **Security Engineer** focused on **scalable security automation** and improving security maturity across organizations.  
 🔹 Blending offensive security, automation, and cloud-native security to build a safer internet.
 
-* 🔐 **Expertise:** Penetartion Testing • Red Teaming • Cloud Security • DevSecOps
+* 🔐 **Expertise:** Penetration Testing • Red Teaming • Cloud Security • DevSecOps
 * ☁️ **Cloud Focus:** AWS Security • CSPM • Threat Surface Reduction
 * 🧰 **Automation Builder:** Bash/Python frameworks using `nuclei`, `httpx`, `amass`, `jq`
 * 🧠 **Open-Source Contributor** & **CVE Author (3x)**
